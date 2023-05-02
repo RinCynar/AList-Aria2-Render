@@ -3,7 +3,7 @@ services:
   - type: web
     name: XList
     env: docker
-    repo: https://github.com/V-Official-233/Alist-Render-CN.git # optional
+    repo: https://github.com/V-Official-233/AList-Aria2-Render.git # optional
     region: oregon # optional (defaults to oregon)
     plan: free # optional (defaults to starter)
     healthCheckPath: /
