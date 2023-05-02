@@ -1,7 +1,7 @@
 # Alist+Aria2-Render (CN)
 
 ## 项目介绍
-本项目基于官方修改而来，为了帮助您更快捷易懂的部署AList在Render上
+本项目基于官方修改而来，为了帮助您更快捷易懂的部署AList+Aria2在Render上
 
 ## 注意
 您需要修改一下.yaml文件的git地址，改为您fork仓库的您的仓库https地址
