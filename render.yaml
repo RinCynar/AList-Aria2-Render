@@ -9,7 +9,7 @@ services:
     healthCheckPath: /
     envVars:
       - key: DB_PORT
-        value: 5244
+        # value: 5432
       - key: DB_TYPE
         # value: sqlite3
         sync: false
