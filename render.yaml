@@ -29,3 +29,5 @@ services:
       - key: DB_TABLE_PREFIX
         # value: alist_
         sync: false
+      - key: DB_SSL_MODE
+        # value: require
