@@ -4,9 +4,8 @@ services:
     name: XList+Xria2
     env: docker
     repo: https://github.com/V-Official-233/AList-Aria2-Render.git # optional
-    region: oregon # optional (defaults to oregon)
+    region: Singapore # optional (defaults to oregon)
     plan: free # optional (defaults to starter)
-    region: Singapore
     healthCheckPath: /
     envVars:
       - key: DB_PORT
