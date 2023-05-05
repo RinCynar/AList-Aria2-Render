@@ -1,9 +1,7 @@
 # Alist+Aria2-Render (CN)
 
 ## 项目介绍
-本项目基于官方修改而来，为了帮助您更快捷易懂的部署AList+Aria2在Render上（第一次部署后render会报错，原因暂时未知）
-- 目前问题:
-无法读取数据库，测试数据库为bit数据库
+本项目基于官方修改而来，为了帮助您更快捷易懂的部署AList+Aria2在Render上
 
 [图文教程](https://v-official-233.github.io/2023/05/02/render%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2alist-aria2/)
 
