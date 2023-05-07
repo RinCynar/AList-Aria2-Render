@@ -1,7 +1,7 @@
 services:
   # A Docker web service
   - type: web
-    name: XList+Xria2
+    name: AList+Aria2
     env: docker
     repo: https://github.com/AthendX/AList-Aria2-Render.git # optional
     region: Singapore # optional (defaults to oregon)
