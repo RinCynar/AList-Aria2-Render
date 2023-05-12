@@ -12,4 +12,3 @@ wget -O - https://github.com/P3TERX/Aria2-Pro-Core/releases/download/1.36.0_2021
 
 rm -rf ${DIR_TMP}
 
-docker exec allinone sv restart aria2
