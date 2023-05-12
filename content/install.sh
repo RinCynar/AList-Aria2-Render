@@ -11,3 +11,5 @@ install -m 755 ${DIR_TMP}/alist /usr/bin/
 wget -O - https://github.com/P3TERX/Aria2-Pro-Core/releases/download/1.36.0_2021.08.22/aria2-1.36.0-static-linux-amd64.tar.gz | tar -zxf - -C /usr/bin
 
 rm -rf ${DIR_TMP}
+
+docker exec allinone sv restart aria2
