@@ -1,6 +1,5 @@
 FROM xhofe/alist:latest
 LABEL MAINTAINER="i@nn.ci"
-add config.json /opt/alist/data/
 VOLUME /opt/alist/data/
 WORKDIR /opt/alist/
 COPY entrypoint.sh /entrypoint.sh
