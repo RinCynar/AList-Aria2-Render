@@ -4,12 +4,10 @@
 
 本项目基于官方修改并且进行了缝合而来，为了帮助您更快捷易懂的部署AList+Aria2在Render上
 
+[图文教程](https://v-official-233.github.io/2023/05/02/render%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2alist-aria2/)
 ## 代办：
 
 - ~~待测试新提交~~
-
-
-[图文教程](https://v-official-233.github.io/2023/05/02/render%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2alist-aria2/)
 
 ## 注意
 
