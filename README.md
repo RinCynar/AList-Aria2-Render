@@ -18,6 +18,11 @@
 
 您需要修改一下.yaml文件的git地址，改为您fork仓库的您的仓库https地址
 
+并且您需要在环境变量中添加
+> ```json
+> PORT 5244
+> ```
+
 ### 一键部署到Render 
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
@@ -29,19 +34,12 @@
 下面是一些免费数据库:
 
 - https://db4free.net/
-
 - https://remotemysql.com/
-
 - https://www.freesqldatabase.com/
-
 - https://planetscale.com/
-
 - https://bit.io/
-
 - https://www.elephantsql.com/
-
 - https://scalingo.com/
-
 - http://cloud.yugabyte.com/
 
 如何更改数据库？
@@ -51,69 +49,39 @@
 数据库是私有的，因此您无需担心泄露数据。(只要您没有~~不小心~~泄露了数据库密码账号)
 
 ### MySQL数据库示例（注意不要带“”号）
-
 > ```json
-
 >   "DB_TYPE":"mysql",
-
 >   "DB_HOST":"sql.com",
-
 >   "DB_PORT":"3306",
-
 >   "DB_USER":"账号",
-
 >   "DB_PASS":"密码",
-
 >   "DB_NAME":"数据库名称",
-
 >   "DB_TABLE_PREFIX":"alist_",
-
 >   "DB_SSL_MODE":"true"
-
 > ```
 
 ### bit数据库示例 https://bit.io
-
 > ```json
-
 >   "DB_TYPE": "postgres",
-
 >   "DB_HOST": "db.bit.io",
-
 >   "DB_PORT": "5432",
-
 >   "DB_USER": "账号",
-
 >   "DB_PASS": "密码",
-
 >   "DB_NAME": "账号/数据库名称",
-
 >   "DB_TABLE_PREFIX": "alist_",
-
 >   "DB_SSL_MODE": "require"
-
 > 
 
 ### db4free示例 https://db4free.net
-
 > ```json
-
 >   "DB_TYPE": "mysql", 
-
 >   "DB_HOST": "db4free.net", 
-
 >   "DB_PORT": "3306", 
-
 >   "DB_USER": "账号", 
-
 >   "DB_PASS": "密码", 
-
 >   "DB_NAME": "数据库名称", 
-
 >   "DB_TABLE_PREFIX": "alist_", 
-
 >   "DB_SSL_MODE": "false" 
-
 > ```
 
 ### 密码
