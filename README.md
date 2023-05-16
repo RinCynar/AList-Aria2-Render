@@ -82,6 +82,11 @@
 >   "DB_SSL_MODE": "false" 
 > ```
 
+更多变量及说明请参考： 
+ https://github.com/alist-org/alist/blob/main/internal/conf/config.go 
+  
+ https://alist.nn.ci/zh/config/configuration.html
+
 ### 密码
 
 未接入数据库时密码在logs中生成，接入数据库以后请查看您的数据库生成的文件
