@@ -3,6 +3,7 @@
 ## 鸣谢
 
 - [alist-org/alist](https://github.com/alist-org/alist)
+- [P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf)
 
 ## 项目介绍
 
