@@ -1,14 +1,15 @@
 # Alist+Aria2-Render (CN)
 
+## 鸣谢
+
+- [alist-org/alist](https://github.com/alist-org/alist)
+
 ## 项目介绍
 
 本项目基于官方修改并且进行了缝合而来，为了帮助您更快捷易懂的部署AList+Aria2在Render上
 ，如果是之前Fork的仓库记得更新你Fork的分支
 
 [图文教程](https://v-official-233.github.io/2023/05/02/render%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2alist-aria2/)
-## 代办：
-
-- ~~待测试新提交~~
 
 ## 注意
 
