@@ -56,17 +56,16 @@
 >   "DB_TABLE_PREFIX":"alist_",
 >   "DB_SSL_MODE":"true"
 ### PostgreSQL
-> ```
 > ```json
 >   "DB_TYPE": "postgres",
 >   "DB_HOST": "sql.com",
 >   "DB_PORT": "5432",
 >   "DB_USER": "账号",
 >   "DB_PASS": "密码",
->   "DB_NAME": "账号/数据库名称",
+>   "DB_NAME": "数据库名称",
 >   "DB_TABLE_PREFIX": "alist_",
 >   "DB_SSL_MODE": "require"
-> 
+> ```
 
 
 ### db4free示例 https://db4free.net
