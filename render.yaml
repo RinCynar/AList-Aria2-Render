@@ -1,10 +1,10 @@
 services:
   # A Docker web service
   - type: web
-    name: AList+Aria2
+    name: AListo+Aria_2
     env: docker
     repo: https://github.com/Clouddark75/AList-Aria2-Render.git # optional
-    region: Singapore # optional (defaults to oregon)
+    region: oregon # optional (defaults to oregon)
     plan: free # optional (defaults to starter)
     healthCheckPath: /
     envVars:
